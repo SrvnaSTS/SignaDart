@@ -5,7 +5,7 @@
     <classes>
    	  <class name="SignaDart.Login"/>
       <class name="SignaDart.logout"/>
-
+      <class name="SignaDart.signup"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
